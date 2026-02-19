@@ -1,14 +1,1 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import img from "./assets/me.jpg";
-import img1 from "./assets/me.jpg";
-import "./Port.css";
-import Resume from "./assets/resume/resume.pdf";
-
-
-// ----------------- NAVBAR -----------------
-
-import { FaMoon, FaSun } from "react-icons/fa";
-import { useEffect } from "react";
-const Navbar = () => 
-  const [menuOpen, setMenuOpen] = useState(false);
-  const [darkMode, setDarkMode] = useState(true);
+there is no content for any others
